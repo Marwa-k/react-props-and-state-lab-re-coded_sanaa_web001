@@ -1,4 +1,4 @@
-import React from 'react';
+/*import React from 'react';
 import { expect } from 'chai';
 import Enzyme, { shallow } from 'enzyme';
 import sinon from 'sinon';
@@ -30,3 +30,4 @@ describe('<Filters />', () => {
     });
   });
 });
+*/
